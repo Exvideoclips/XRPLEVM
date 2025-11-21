@@ -4,15 +4,6 @@
 
 Welcome to the XRPLEVM repository! This project offers a comprehensive toolkit for working with the XRP Ledger in an EVM-compatible environment. You can auto-deploy contracts, send tokens, burn assets, swap currencies, bridge assets, add liquidity pools, and mint tokens with ease. 
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Links](#links)
-
 ## Features
 
 - **Auto Deployment**: Easily deploy smart contracts on the XRP Ledger.
